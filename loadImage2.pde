@@ -8,9 +8,7 @@ image(img,0,0,width, height);
 }
 
 void draw()
-{
-  save("ALYSSA.Halloween.png");
-}
+
 void mouseDragged()
 {
   blendMode(OVERLAY);
