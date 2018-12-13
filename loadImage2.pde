@@ -1,6 +1,6 @@
 //add loadImage2 code here
 
-/* @pjs preload="pumpkins.png";*/
+/* @pjs preload="pumpkins.png";*/ 
 PImage img;
 
 void setup() {
